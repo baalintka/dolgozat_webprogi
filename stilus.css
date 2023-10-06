@@ -1,0 +1,51 @@
+main{
+	width:80%;
+	margin:auto;
+	
+}
+body{max-width:100%;
+	background-image: url("kepek/black.png");}
+.fejlec img{width:100%;}
+.nav{background-color:gray;}
+.fejlec{text-align:center;}
+.nav li {
+  float: left;
+}
+.nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+.tartalomm{
+	text-align:center;
+}
+.tartalomm img{
+	
+	width:600px
+	
+	}
+.kep{
+	padding:20px;
+}
+.nav li a:hover {
+  background-color: #ff9900;
+}
+.tartalom{
+	float:left;
+	background-color:#ffffcc;
+}
+.tartalom img{
+	float:right;
+	width:300px;}
+.lablec{background-color:#ff9900;
+text-align: center;
+}
